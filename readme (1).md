@@ -6,25 +6,27 @@ Max Muster
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+Eldin hat meine Ganze Grobplanung gelöscht, darum nicht enthalten.
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ der Grundsatz für mien Programm ist schon gelegt. Nun gilt es das Programm auszuarbeiten. Zuerst habe ich den Code selber geschrieben und dann auf das minimum verkürzt.
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] warm kalt system
+- [ ] warm kalt system 2/1 easter EGG
+- [ ] Punktesystem
+- [ ] punktesystem
+      
+      
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 1              |   programm gibt bei falscher eingabe "warm kalt" tips sprich (höher tiefer)                   |  (falsche EIngabe)              |  die Zahl ist grösser   |          |
+| 3  |   Programm vergibt punkte und zeigt sie immer wieder an                   | (Eingabe)               |    "du hast 10 punkte"            |          |
+| 5  |   Programm vergibt nach 4 falschen antworten eine Wissensfrage, um doch noch punkte zu geben | 4 falsche antworten | Wie hiess der Anführer der Briten im Zweiten Weltkrieg |
+|              |                      |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -32,16 +34,16 @@ Max Muster
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Zusatzfragen
+- [ ] schöner gestalten(farben)
+- [ ] GUI
+- [ ] easter eggs einbauen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
+|  8             |   bei bestimmten Eingaben passiert etwas spezielles   |   zb. "Easter"   | macht alle farben anders |          |
 | ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+|             |                      |                |                |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
