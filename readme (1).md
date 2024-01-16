@@ -14,21 +14,21 @@ Eldin hat meine Ganze Grobplanung gelöscht, darum nicht enthalten.
 
 ## 16.1 und 23.1.2024
 
-- [ ] warm kalt system
-- [ ] warm kalt system 2/1 easter EGG
-- [ ] Punktesystem
-- [ ] punktesystem
+- [x] warm kalt system
+- [x] warm kalt system 2
+- [x] Punktesystem
+- [ ] punktesystem implementieren
       
       
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   programm gibt bei falscher eingabe "warm kalt" tips sprich (höher tiefer)                   |  (falsche EIngabe)              |  die Zahl ist grösser   |          |
+| 1              |   programm gibt bei falscher eingabe "warm kalt" tips sprich (höher tiefer)                   |  (falsche EIngabe)              |  die Zahl ist grösser   |      x    |
 | 3  |   Programm vergibt punkte und zeigt sie immer wieder an                   | (Eingabe)               |    "du hast 10 punkte"            |          |
 | 5  |   Programm vergibt nach 4 falschen antworten eine Wissensfrage, um doch noch punkte zu geben | 4 falsche antworten | Wie hiess der Anführer der Briten im Zweiten Weltkrieg |
 |              |                      |                |                |          |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Ich bin leider noch nicht mit meinem code des Punktesystems fertig geworden.respektive ich bin nicht mit dem einbinden des codes fertig geworden. der code selber steht schon. Das höher tiefer system hat nach ein paar problemen mit visualstudio funtkioniert.
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
