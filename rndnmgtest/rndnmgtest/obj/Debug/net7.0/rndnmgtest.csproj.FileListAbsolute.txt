@@ -1,0 +1,14 @@
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.AssemblyInfoInputs.cache
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.AssemblyInfo.cs
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.csproj.CoreCompileInputs.cache
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\bin\Debug\net7.0\rndnmgtest.exe
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\bin\Debug\net7.0\rndnmgtest.deps.json
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\bin\Debug\net7.0\rndnmgtest.runtimeconfig.json
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\bin\Debug\net7.0\rndnmgtest.dll
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\bin\Debug\net7.0\rndnmgtest.pdb
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.dll
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\refint\rndnmgtest.dll
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.pdb
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\rndnmgtest.genruntimeconfig.cache
+C:\Users\sgerw\source\repos\rndnmgtest\rndnmgtest\obj\Debug\net7.0\ref\rndnmgtest.dll

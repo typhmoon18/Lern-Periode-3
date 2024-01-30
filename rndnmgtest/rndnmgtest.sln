@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rndnmgtest", "rndnmgtest\rndnmgtest.csproj", "{FFE6B4E9-BA1E-40AD-A973-6E0CC2C889F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE6B4E9-BA1E-40AD-A973-6E0CC2C889F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE6B4E9-BA1E-40AD-A973-6E0CC2C889F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE6B4E9-BA1E-40AD-A973-6E0CC2C889F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE6B4E9-BA1E-40AD-A973-6E0CC2C889F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {445519EC-5F43-4298-8A35-3F1F1A51C841}
+	EndGlobalSection
+EndGlobal
