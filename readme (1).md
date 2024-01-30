@@ -47,14 +47,11 @@ Eldin hat meine Ganze Grobplanung gelöscht, darum nicht enthalten.
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+ Heute habe ich mein Github Profil geupdatet sowie meinen Code(der leider noch einen Fehler hat) rein geschrieben.
 
 ## Reflexion
+Diese Lernperiode habe ich an meinem ersten richtigen Random Number Guesser gearbeitet. Teil von dem sind ein fast fertiges punktessystem und ein höher tiefer system, welches anzeigt ob die nummer, welche man geraten hat höher oder tiefer von der Löung liegt. Mein grösstes Problem beim Programmieren war, dass ic heinen fehler im Punktesystem hatte den ich nicht richtig herrausbrachte. Auc hhabe ich mir deutchlich zu viel vorgenommen. Der Eigentliche Random Number Guesser war aber ziemlich schnell fertig. Am ENde muss ic hsagen dass mir die Längere(Also lernperiode 2) Lernperiode besser gefallen hat. da es sich für mich als schwierig gestalte diese kurze Zeit 100% richtig zu planen.
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
